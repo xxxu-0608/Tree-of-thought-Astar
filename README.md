@@ -1,2 +1,2 @@
 # Tree-of-thought-Astar
-CSIT6000R-Project
+This project focuses on the Game of 24. Based on the original Tree of Thoughts framework, it innovatively implements the A* algorithm, aiming to improve the problem-solving efficiency and success rate of Large Language Models in this game task. The Game of 24 requires players to use four given numbers to obtain 24 through four arithmetic operations. It is highly challenging and can effectively test the performance of algorithms in complex reasoning tasks.
